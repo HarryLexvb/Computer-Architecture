@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Usuario/Documents/UCSP/III CICLO/ARQUITECTURA DE COMPUTADORAS/SEMANA 5/TAREA 2/Booth_Algorithm/booth_algorithm.cpp
+iostream
+-
+booth_algorithm.h
+C:/Users/Usuario/Documents/UCSP/III CICLO/ARQUITECTURA DE COMPUTADORAS/SEMANA 5/TAREA 2/Booth_Algorithm/booth_algorithm.h
+math.h
+-
+
+C:/Users/Usuario/Documents/UCSP/III CICLO/ARQUITECTURA DE COMPUTADORAS/SEMANA 5/TAREA 2/Booth_Algorithm/booth_algorithm.h
+

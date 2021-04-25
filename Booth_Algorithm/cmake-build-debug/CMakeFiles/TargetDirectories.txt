@@ -1,0 +1,3 @@
+C:/Users/Usuario/Documents/UCSP/III CICLO/ARQUITECTURA DE COMPUTADORAS/SEMANA 5/TAREA 2/Booth_Algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Usuario/Documents/UCSP/III CICLO/ARQUITECTURA DE COMPUTADORAS/SEMANA 5/TAREA 2/Booth_Algorithm/cmake-build-debug/CMakeFiles/Booth_Algorithm.dir
+C:/Users/Usuario/Documents/UCSP/III CICLO/ARQUITECTURA DE COMPUTADORAS/SEMANA 5/TAREA 2/Booth_Algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
