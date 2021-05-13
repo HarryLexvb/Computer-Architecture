@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Usuario/Documents/UCSP/III CICLO/ARQUITECTURA DE COMPUTADORAS/algoritmos en c++/Floating_Point_to_IEEE_754_32-bit/IEE754.cpp
+limits.h
+-
+math.h
+-
+bitset
+-
+IEE754.h
+C:/Users/Usuario/Documents/UCSP/III CICLO/ARQUITECTURA DE COMPUTADORAS/algoritmos en c++/Floating_Point_to_IEEE_754_32-bit/IEE754.h
+
+C:/Users/Usuario/Documents/UCSP/III CICLO/ARQUITECTURA DE COMPUTADORAS/algoritmos en c++/Floating_Point_to_IEEE_754_32-bit/IEE754.h
+iostream
+-
+

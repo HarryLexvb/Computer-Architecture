@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Floating_Point_to_IEEE_754_32_bit.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\Floating_Point_to_IEEE_754_32_bit.dir/objects.a @CMakeFiles\Floating_Point_to_IEEE_754_32_bit.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Floating_Point_to_IEEE_754_32_bit.dir/objects.a -Wl,--no-whole-archive -o Floating_Point_to_IEEE_754_32_bit.exe -Wl,--out-implib,libFloating_Point_to_IEEE_754_32_bit.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Floating_Point_to_IEEE_754_32_bit.dir\linklibs.rsp
